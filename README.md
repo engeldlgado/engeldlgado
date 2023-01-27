@@ -94,23 +94,21 @@
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=engeldlgado&hide_border=true&layout=compact" align="left" style="width: 100%" />
+![engeldlgado GitHub stats](https://github-readme-stats.vercel.app/api?username=engeldlgado&count_private=true&show_icons=true&theme=radical)
 
-</td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=engeldlgado&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td></tr></table>  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</div>  
+  
 
 <br/>  
 
 
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
+<!-- ## Recent Blog Posts  
+<!-- BLOG-POST-LIST:START 
 If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
+ BLOG-POST-LIST:END -->   -->
 
 <br/>  
 
