@@ -107,6 +107,10 @@
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Aprende a hacer copias profundas de objetos con structuredClone&lpar;&rpar;](https://engeldelgado.com/post/structuredclone-copias-profundas-javascript)
+- [Crea tu API de Imágenes Open Graph con Next.js y @vercel/og](https://engeldelgado.com/post/crear-api-nextjs-generacion-imagenes-open-graph-paquete-vercel-og)
+- [Construye una App escalable con Next.js y MongoDB: Tutorial y consejos](https://engeldelgado.com/post/next-js-mongodb-aplicacion-web-escalable)
+- [Mejora la experiencia de usuario con Web Page Vitals](https://engeldelgado.com/post/web-page-vitals-medir-experiencia-usuario-sitio-web)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
