@@ -107,11 +107,11 @@
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Import Attributes facilitará los módulos en JavaScript](https://engeldelgado.com/post/import-attributes-modulos-js)
 - [Que es el Desarrollo Web y La Importancia para el Éxito de tu Negocio](https://engeldelgado.com/post/que-es-el-desarrollo-web)
 - [¿Por qué es importante el desarrollo web para tu negocio?](https://engeldelgado.com/post/importancia-desarrollo-web-negocio)
 - [Maneja los errores de JavaScript como un Desarrollador Senior](https://engeldelgado.com/post/gestion-de-errores-javascript-error-factory)
 - [Aprende a hacer copias profundas de objetos con structuredClone&lpar;&rpar;](https://engeldelgado.com/post/structuredclone-copias-profundas-javascript)
-- [Crea tu API de Imágenes Open Graph con Next.js y @vercel/og](https://engeldelgado.com/post/crear-api-nextjs-generacion-imagenes-open-graph-paquete-vercel-og)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
